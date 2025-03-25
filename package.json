@@ -1,0 +1,10 @@
+{
+  "name": "project-adwin-agency-test-task",
+  "homepage": "https://RainbowEclipsee.github.io/project-adwin-agency-test-task",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
