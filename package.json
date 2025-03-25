@@ -5,6 +5,6 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "deploy": "gh-pages -d"
+    "deploy": "gh-pages -d ."
   }
 }
